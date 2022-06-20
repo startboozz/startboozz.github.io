@@ -536,7 +536,7 @@ header.sticky {
 
 .home-img img {
   z-index: 1;
-  max-width: 270px;
+  max-width: 310px;
   padding: 30px;
   animation: float 3s infinite;
 }
@@ -762,6 +762,7 @@ header.sticky {
    ---------- */
 
 #footer {
+  overflow-y: hidden ;
   background: var(--primary-color);
   height: 100%;
   position: relative;
