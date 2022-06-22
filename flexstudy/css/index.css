@@ -910,7 +910,7 @@ header.sticky {
 .contact-us {
   max-width: 900px;
   height: auto;
-  margin: 20px auto;
+  margin: 40px auto;
   padding: 20px 60px 30px 40px;
   box-shadow: var(--shadow-300);
   border-radius: 30px;
