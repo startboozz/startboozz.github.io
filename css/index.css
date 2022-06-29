@@ -78,7 +78,7 @@ button {
 }
 img,
 svg {
-  max-width: 100%;
+  max-width: 134%;
   vertical-align: middle;
 }
 .container {
@@ -542,7 +542,7 @@ header.sticky {
 }
 
 .home-text h1 {
-  font-size: 40px;
+  font-size: 78px;
   text-transform: capitalize;
   line-height: 1.2;
 }
@@ -695,7 +695,7 @@ header.sticky {
   animation-delay: 1s;
 }
 .about-section .row {
-  padding: 60px 0px;
+  padding: 135px 0px;
 }
 
 .about-img {
@@ -705,18 +705,19 @@ header.sticky {
 }
 .about-text {
   width: 50%;
-  padding: 40px;
+  padding: 98px;
   color: var(--black);
 }
 .about-text h1 {
-  font-size: 30px;
+  font-size: 54px;
   width: 100%;
   text-transform: capitalize;
   line-height: 1.2;
 }
 .about-text p {
-  font-size: 13px;
+  font-size: 16px;
   opacity: 0.7;
+  text-justify: inter-word;
   text-transform: capitalize;
   font-weight: 400;
   margin: 15px 0px 20px;
